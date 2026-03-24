@@ -1,0 +1,6 @@
+matplotlib
+numpy
+anthropic
+sqlalchemy
+pyyaml
+python-dotenv

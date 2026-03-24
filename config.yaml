@@ -1,0 +1,25 @@
+world:
+  name: "Genesis World"
+  dimension: "2D"
+
+simulation:
+  ticks_per_second: 20
+  simulation_speed: 1.0
+
+agents:
+  max_count: 100
+  behavior: "standard"
+
+civilization:
+  starting_resources:
+    food: 1000
+    water: 500
+  technology_level: 1
+
+Claude_Ai:
+  enabled: true
+  personality: "helpful"
+
+UI:
+  theme: "dark"
+  language: "en"
